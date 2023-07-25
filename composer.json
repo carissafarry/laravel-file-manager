@@ -1,5 +1,5 @@
 {
-    "name": "alexusmai/laravel-file-manager",
+    "name": "carissafarry/laravel-file-manager",
     "description": "File manager for Laravel",
     "keywords": [
         "laravel",
@@ -8,9 +8,14 @@
     ],
     "authors": [
         {
+            "name": "Carissa Farry",
+            "email": "carissafarry@gmail.com",
+            "role": "Developer"
+        },
+        {
             "name": "Aleksandr Manekin",
             "email": "alexusmai@gmail.com",
-            "role": "Developer"
+            "role": "Original Developer"
         }
     ],
     "homepage": "https://github.com/alexusami/laravel-file-manager",
